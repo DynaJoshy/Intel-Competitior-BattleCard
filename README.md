@@ -1,1 +1,1 @@
-# Intel-Competitior-BattleCard
+Battle-Card Analytics Engine
